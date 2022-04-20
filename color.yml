@@ -1,0 +1,45 @@
+# Colors (Breath of the forest)
+colors:
+  # Default colors
+  primary:
+    #hard contrast: background = '#0d0f11'
+    background: '#1e2229'
+    #soft contrast: background = '#2e3439'
+    foreground: '#17a88b'
+    bright_foreground: '#00bc96'
+    dim_foreground: '#149678'
+
+  # Normal colors
+  normal:
+    black:   '#1e2229'
+    red:     '#ed1515'
+    green:   '#44853a'
+    yellow:  '#f67400'
+    blue:    '#1d99f3'
+    magenta: '#9b59b6'
+    cyan:    '#1abc9c'
+    white:   '#fcfcfc'
+
+  # Bright colors
+  bright:
+    black:   '#7f8c8d'
+    red:     '#c0392b'
+    green:   '#55a649'
+    yellow:  '#fdbc4b'
+    blue:    '#3daee9'
+    magenta: '#8e44ad'
+    cyan:    '#16a085'
+    white:   '#ffffff'
+
+  # Dim colors
+  # If the dim colors are not set, they will be calculated automatically based on the `normal` colors.
+  dim:
+    black:   '#2e3439'
+    red:     '#783228'
+    green:   '#32642c'
+    yellow:  '#b65619'
+    blue:    '#556a7d'
+    magenta: '#614a73'
+    cyan:    '#186c60'
+    white:   '#63686d'
+
